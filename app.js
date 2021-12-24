@@ -16,7 +16,3 @@ async function get() {
   }
 get();
 
-function test() {
-  document.getElementById('text').innerHTML = 'IT WORKED'
-}
-test();
