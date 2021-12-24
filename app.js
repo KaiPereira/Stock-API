@@ -5,7 +5,7 @@ async function get() {
       method: 'GET',
       headers: { 
         'accept': 'application/json', 
-        'X-API-KEY': 'dyiMZ8ey0q2NlassaGFAJ2kOaoWqklRQa0laWUvt'
+        'X-API-KEY': '' //private
       },
       redirect: 'follow'
     };
